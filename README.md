@@ -1,8 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IRU212)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IRU212)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRU212&layout=compact&theme=tokyonight)](https://github.com/IRU212/)
+</p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=IRU212)](https://github.com/IRU212/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IRU212&theme=vue)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRU212&layout=compact&theme=tokyonight)](https://github.com/IRU212/)
-
 
 
 <p align="left">
