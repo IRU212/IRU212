@@ -1,4 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IRU212)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=IRU212)](https://github.com/IRU212/github-profile-trophy)
+
 
 <p align="left">
   <a href="https://github.com/IRU212/IRU212/">
