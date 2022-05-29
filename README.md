@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=IRU212)](https://github.com/IRU212/github-profile-trophy)
+
 <p align="left">
   <a href="https://github.com/IRU212/IRU212/">
     <img src="https://komarev.com/ghpvc/?username=IRU212" alt="IRU212" />
